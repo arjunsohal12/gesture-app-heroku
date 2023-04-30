@@ -12,4 +12,4 @@ for (let finger of [fp.Finger.Middle, fp.Finger.Ring, fp.Finger.Pinky]) {
     PointUpGesture.addCurl(finger, fp.FingerCurl.FullCurl, 1.0);
 }
 
-export default PointUpGesture
+export default PointUpGesture;
