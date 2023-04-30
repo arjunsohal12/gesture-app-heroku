@@ -17,4 +17,4 @@ for (let finger of [fp.Finger.Index, fp.Finger.Middle, fp.Finger.Ring]) {
     CallMeGesture.addCurl(finger, fp.FingerCurl.FullCurl, 1.0);
 }
 
-export default CallMeGesture;
+export default CallMeGesture
